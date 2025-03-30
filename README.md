@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-     <img align="right" alt="kayn"  src="https://tenor.com/pt-BR/view/kayn-gif-4963999081104704486">
+   
 </div>
 
 ##
@@ -28,4 +28,5 @@
   <a href="https://x.com/winchester0__0"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://https://behance.net/winchesvideoe1"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" ></a>
 </div>
-![Snake animation](https://[github.com/WINCHESTER227](https://github.com/WINCHESTER227/WINCHESTER227/issues/1)
+
+
